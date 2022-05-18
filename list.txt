@@ -9,3 +9,5 @@ Bread
 
 Meat:
 Chicken
+Pork
+Goat
