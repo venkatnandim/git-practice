@@ -1,5 +1,8 @@
+Fruits:
 Apples
 Bananas
 Oranges
+
+Dairy:
 Milk
 Bread
