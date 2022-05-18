@@ -6,3 +6,6 @@ Oranges
 Dairy:
 Milk
 Bread
+
+Meat:
+Chicken
