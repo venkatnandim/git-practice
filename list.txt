@@ -6,6 +6,9 @@ Oranges
 Dairy:
 Milk
 Bread
+Eggs
+Butter
+Cheese
 
 Meat:
 Chicken
